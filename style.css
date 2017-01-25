@@ -1,0 +1,10 @@
+/*
+Theme Name: Computer Tutors Custom Theme
+Description: Customized theme for Computer Tutors which extends Avada
+Author: ThemeFusion / Logan Stanford
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+@import url(get_stylesheet_dir_uri(). '/includes/css/single.css');
